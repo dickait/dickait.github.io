@@ -1,0 +1,136 @@
+[21-Jul-2017 12:17:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'dickaari_lacak'@'localhost' (using password: YES) in /home/dickaari/public_html/dbcon.php on line 8
+[21-Jul-2017 12:17:35 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/dickaari/public_html/dbcon.php on line 9
+[21-Jul-2017 12:18:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'dickaari_lacak'@'localhost' (using password: YES) in /home/dickaari/public_html/dbcon.php on line 8
+[21-Jul-2017 12:18:02 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/dickaari/public_html/dbcon.php on line 9
+[21-Jul-2017 12:18:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'dickaari_lacak'@'localhost' (using password: YES) in /home/dickaari/public_html/dbcon.php on line 8
+[21-Jul-2017 12:18:10 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/dickaari/public_html/dbcon.php on line 9
+[21-Jul-2017 12:19:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'dickaari_lacak'@'localhost' to database 'dickaari_lacakkendaraan' in /home/dickaari/public_html/dbcon.php on line 8
+[21-Jul-2017 12:19:26 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/dickaari/public_html/dbcon.php on line 9
+[21-Jul-2017 12:20:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'dickaari_lacak'@'localhost' (using password: YES) in /home/dickaari/public_html/dbcon.php on line 8
+[21-Jul-2017 12:20:11 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/dickaari/public_html/dbcon.php on line 9
+[21-Jul-2017 12:20:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'dickaari_lacak'@'localhost' (using password: YES) in /home/dickaari/public_html/dbcon.php on line 8
+[21-Jul-2017 12:20:14 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/dickaari/public_html/dbcon.php on line 9
+[23-Jul-2017 15:48:28 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[23-Jul-2017 15:48:28 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[25-Jul-2017 10:51:38 UTC] PHP Notice:  Undefined variable: data in /home/dickaari/public_html/getmap.php on line 18
+[25-Jul-2017 10:54:29 UTC] PHP Notice:  Undefined variable: data in /home/dickaari/public_html/getmap.php on line 18
+[25-Jul-2017 14:20:12 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[25-Jul-2017 14:20:12 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[26-Jul-2017 08:32:22 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[26-Jul-2017 08:32:22 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[27-Jul-2017 01:54:17 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[27-Jul-2017 01:54:17 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[27-Jul-2017 06:49:11 UTC] PHP Notice:  Undefined variable: data in /home/dickaari/public_html/getmap.php on line 18
+[27-Jul-2017 06:52:30 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[27-Jul-2017 06:52:30 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[27-Jul-2017 15:25:27 UTC] PHP Notice:  Undefined variable: data in /home/dickaari/public_html/getmap.php on line 18
+[28-Jul-2017 13:01:50 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[28-Jul-2017 13:01:50 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[29-Jul-2017 08:49:43 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[29-Jul-2017 08:49:43 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[30-Jul-2017 12:16:15 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[30-Jul-2017 12:16:15 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[31-Jul-2017 16:04:43 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[31-Jul-2017 16:04:43 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[01-Aug-2017 17:54:20 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[01-Aug-2017 17:54:20 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[02-Aug-2017 17:27:28 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[02-Aug-2017 17:27:28 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[03-Aug-2017 16:41:02 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[03-Aug-2017 16:41:02 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[04-Aug-2017 16:54:17 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[04-Aug-2017 16:54:17 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[05-Aug-2017 07:41:18 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[05-Aug-2017 07:41:18 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[05-Aug-2017 15:45:47 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[05-Aug-2017 15:45:47 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[06-Aug-2017 09:55:43 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[06-Aug-2017 09:55:43 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[07-Aug-2017 10:49:54 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[07-Aug-2017 10:49:54 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[07-Aug-2017 12:39:35 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[07-Aug-2017 12:39:35 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[08-Aug-2017 14:14:43 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[08-Aug-2017 14:14:43 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[09-Aug-2017 19:15:26 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[09-Aug-2017 19:15:27 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[10-Aug-2017 18:57:21 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[10-Aug-2017 18:57:21 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[11-Aug-2017 12:03:30 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[11-Aug-2017 12:03:30 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[12-Aug-2017 14:48:28 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[12-Aug-2017 14:48:28 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[13-Aug-2017 12:51:54 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[13-Aug-2017 12:51:54 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[14-Aug-2017 16:11:55 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[14-Aug-2017 16:11:55 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[15-Aug-2017 09:15:29 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[15-Aug-2017 09:15:29 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[16-Aug-2017 11:32:44 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[16-Aug-2017 11:32:44 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[17-Aug-2017 08:06:22 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[17-Aug-2017 08:06:22 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[18-Aug-2017 11:30:54 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[18-Aug-2017 11:30:54 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[19-Aug-2017 06:03:52 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[19-Aug-2017 06:03:52 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[20-Aug-2017 11:21:48 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[20-Aug-2017 11:21:48 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[21-Aug-2017 10:50:12 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[21-Aug-2017 10:50:12 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[22-Aug-2017 14:18:04 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[22-Aug-2017 14:18:04 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[23-Aug-2017 14:22:21 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[23-Aug-2017 14:22:21 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[24-Aug-2017 12:40:36 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[24-Aug-2017 12:40:36 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[25-Aug-2017 19:14:53 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[25-Aug-2017 19:14:53 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[26-Aug-2017 13:44:21 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[26-Aug-2017 13:44:21 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[27-Aug-2017 10:57:47 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[27-Aug-2017 10:57:47 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[28-Aug-2017 12:38:07 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[28-Aug-2017 12:38:07 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[29-Aug-2017 14:04:54 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[29-Aug-2017 14:04:54 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[30-Aug-2017 12:29:17 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[30-Aug-2017 12:29:17 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[31-Aug-2017 10:10:28 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[31-Aug-2017 10:10:28 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[01-Sep-2017 10:20:52 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[01-Sep-2017 10:20:52 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[02-Sep-2017 13:54:29 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[02-Sep-2017 13:54:29 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[03-Sep-2017 11:01:01 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[03-Sep-2017 11:01:01 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[04-Sep-2017 19:54:50 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[04-Sep-2017 19:54:50 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[05-Sep-2017 12:33:42 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[05-Sep-2017 12:33:42 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[05-Sep-2017 16:14:18 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[05-Sep-2017 16:14:18 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[06-Sep-2017 11:16:02 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[06-Sep-2017 11:16:02 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[07-Sep-2017 18:07:34 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[07-Sep-2017 18:07:34 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[07-Sep-2017 23:32:10 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[07-Sep-2017 23:32:10 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[08-Sep-2017 15:49:05 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[08-Sep-2017 15:49:05 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[09-Sep-2017 08:33:46 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[09-Sep-2017 08:33:46 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[10-Sep-2017 13:53:17 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[10-Sep-2017 13:53:17 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[11-Sep-2017 08:56:31 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[11-Sep-2017 08:56:31 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[12-Sep-2017 09:49:16 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[12-Sep-2017 09:49:17 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[14-Sep-2017 10:29:44 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[14-Sep-2017 10:29:44 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[15-Sep-2017 17:35:48 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[15-Sep-2017 17:35:48 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[16-Sep-2017 09:08:33 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[16-Sep-2017 09:08:33 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
+[17-Sep-2017 08:59:35 UTC] PHP Notice:  Undefined index: latitude in /home/dickaari/public_html/addDb.php on line 4
+[17-Sep-2017 08:59:35 UTC] PHP Notice:  Undefined index: longitude in /home/dickaari/public_html/addDb.php on line 5
